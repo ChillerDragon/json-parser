@@ -5,3 +5,6 @@ json.o
 libjsonparser.a
 libjsonparser.so
 test_json
+SAN.*
+san/test
+
